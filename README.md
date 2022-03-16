@@ -2,7 +2,12 @@
 
 This repo holds the sources of the betatalks.nl main website.
 
-## 
+## Tech stack
+
+* API: Azure Functions
+* Framework: .NET 6
+* Fronted: Blazor Web Assembly (WASM)
+* Toolkit: Bootstrap?
 
 ## Repository structure
 
